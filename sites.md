@@ -17,7 +17,7 @@ As i wonder around the internes, i find so many things. I have to put them in on
 
 
 ## Youtube Videos - (Interesting reads)
-1. []()
+1. [WATCH THIS IF YOU WANT TO BECOME A WEB DEVELOPER! - Web Development Career advice](https://www.youtube.com/watch?v=pB0WvcxTbCA)
 + []()
 + []()
 + []()
@@ -27,3 +27,8 @@ As i wonder around the internes, i find so many things. I have to put them in on
 + []()
 + []()
 10. []()
+
+
+
+
+https://www.youtube.com/user/learncodeacademy/featured
