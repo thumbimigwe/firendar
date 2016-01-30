@@ -1,0 +1,1 @@
+## why learning to code is so damn hard
